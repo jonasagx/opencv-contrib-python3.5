@@ -9,6 +9,7 @@ Dockerfile for building an image with:
 - current OpenCV version (from GitHub)
 - OpenCV contrib (extra modules).
 
-# Get docker image
-
+# Getting the docker image
+```
 docker pull jonasagx/opencv-contrib-python
+```
