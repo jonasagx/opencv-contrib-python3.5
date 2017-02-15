@@ -1,6 +1,6 @@
 FROM python:3.5
 
-MAINTAINER Ivona Tautkute "ivona.tautkute@tooploox.com"
+MAINTAINER Jonas Xavier "jonas.agx@gmail.com"
 
 RUN apt-get update && apt-get install -y build-essential \
     cmake \
