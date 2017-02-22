@@ -7,5 +7,4 @@ WORKDIR /
 EXPOSE 8888
 
 RUN pip3 install --upgrade pip
-RUN pip install matplotlib
 RUN pip3 install jupyter
