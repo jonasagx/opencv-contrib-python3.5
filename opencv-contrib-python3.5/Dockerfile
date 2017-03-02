@@ -71,3 +71,5 @@ RUN cd /opencv-master/cmake_binary \
 
 RUN pip install matplotlib
 RUN pip install Pillow
+RUN pip install pymongo
+
