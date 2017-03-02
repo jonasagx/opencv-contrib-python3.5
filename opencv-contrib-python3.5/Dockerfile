@@ -70,4 +70,4 @@ RUN cd /opencv-master/cmake_binary \
 	&& rm -r /opencv_contrib-master
 
 RUN pip install matplotlib
-
+RUN pip install Pillow
